@@ -1,13 +1,3 @@
-# By submitting this assignment, I agree to the following:
-#   "Aggies do not lie, cheat, or steal, or tolerate those who do."
-#   "I have not given or received any unauthorized aid on this assignment."
-#
-# Names:        Robert Jordan
-#               Jack Bishop
-#               Jacob Peterson
-# Section:      505
-# Assignment:   Wumpus Project
-# Date:         December 7 2021
 from random import randint, sample
 from colorama import Fore
 
